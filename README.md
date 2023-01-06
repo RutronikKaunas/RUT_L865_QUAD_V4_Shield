@@ -11,7 +11,6 @@ The GL865 V4 Shield is designed by Rutronik for quick start-up and evaluation of
 
 -  Telit GL865 QUAD V4 Cellular Modem.
 -   Compatibility with Telit ML865C1-EA Cellular Modem.
--   Compatibility with Telit ML865C1-EA Cellular Modem.
 -   Nano SIM card slot.
 -   Micro USB connector for power supply.
 -   ISL80103 LDO 3A.
